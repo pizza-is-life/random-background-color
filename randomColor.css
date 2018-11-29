@@ -33,6 +33,7 @@ body {
 	font-size: 1.25rem;
 	padding: 15px 30px;
 	text-transform: uppercase;
+	width: 230px;
 }
 
 #button {
@@ -42,6 +43,7 @@ body {
 	font-size: 1.25rem;
 	padding: 15px 30px;
 	border: 3px solid black;
+	width: 230px;
 }
 
 button:focus {
@@ -49,7 +51,7 @@ button:focus {
 }
 
 
-#footer {
+footer {
 	position: absolute;
 	bottom: 0;
 	width: 100%;
@@ -58,7 +60,7 @@ button:focus {
 	background: rgba(255, 255, 255, 0.1);
 }
 
-#footer a {
+footer a {
 	text-decoration: none;
 	color: #f9fafa;
 	font-size: 0.75rem;
